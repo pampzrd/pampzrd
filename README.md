@@ -9,13 +9,12 @@
 
 =========//=========
  
-  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="160em"></br>
+  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="160em">
+  </br></br>
 =========//=========</br>
- Fascinada por idiomas 🌎 </br>
- e linguagens de programação 💻 </br>
  Cristã ✝️❤️🙏</br>
- Coisas fofas 🌸🐶</br>
- Chaves e Chapolin 📺🥸</br>
+ Idiomas 🌎 Linguagens de Programação 💻 </br>
+ Coisas fofas 🌸🐶 Chaves e Chapolin 📺🥸</br>
 
  
  <hr>
