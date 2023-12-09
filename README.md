@@ -5,6 +5,7 @@
  Estudante de Defesa Cibernética 👀🔒 </br>
  BLUE TEAM 💙⚔️ </br>
  Apaixonada por Malwares e código! 👾🧩</br>
+ Fascinada por idiomas e linguagens de programação 🌎💻 </br>
  Cristã ✝️❤️🙏</br>
  Coisas fofas 🌸🐶</br>
  Chaves e Chapolin 📺🥸</br>
