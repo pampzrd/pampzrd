@@ -6,7 +6,7 @@
  BLUE TEAM 💙⚔️ </br>
  Apaixonada por Malwares e código! 👾🧩</br>
  
-  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="140em">
+  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="160em">
   
  Fascinada por idiomas 🌎 </br>
  e linguagens de programação 💻 </br>
