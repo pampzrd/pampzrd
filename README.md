@@ -1,6 +1,7 @@
 <div align="center">
  
 #  .NET DEVELOPER | CYBERSECURITY 🎭👩‍💻
+ <hr>
  
  Estudante de Defesa Cibernética 👀🔒 </br>
  BLUE TEAM 💙⚔️ </br>
