@@ -14,7 +14,7 @@
 =========//=========</br>
  Cristã ✝️❤️🙏</br>
  Idiomas 🌎 Linguagens de Programação 💻 </br>
- Coisas fofas 🌸🐶 Chaves e Chapolin 📺🥸</br>
+ Coisas fofas 🌸🐶 Chaves && Chapolin 📺🥸</br>
 
  
  <hr>
