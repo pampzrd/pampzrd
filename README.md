@@ -9,7 +9,7 @@
 
 =========//=========
  
-  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="160em">
+  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="100em">
   </br></br>
 =========//=========</br>
  Cristã ✝️❤️🙏</br>
