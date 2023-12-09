@@ -5,10 +5,15 @@
  Estudante de Defesa Cibernética 👀🔒 </br>
  BLUE TEAM 💙⚔️ </br>
  Apaixonada por Malwares e código! 👾🧩</br>
- Fascinada por idiomas e linguagens de programação 🌎💻 </br>
+ 
+  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="140em">
+  
+ Fascinada por idiomas 🌎 </br>
+ e linguagens de programação 💻 </br>
  Cristã ✝️❤️🙏</br>
  Coisas fofas 🌸🐶</br>
  Chaves e Chapolin 📺🥸</br>
+
  
  <hr>
  
