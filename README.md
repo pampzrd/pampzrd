@@ -1,6 +1,6 @@
 <div align="center">
  
-#  BACKEND DEVELOPER | CYBERSECURITY 🎭👩‍💻
+#  CYBERSECURITY 🎭👩‍💻
  <hr>
  
  Estudante de Defesa Cibernética 👀🔒 </br>
