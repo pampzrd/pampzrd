@@ -23,7 +23,5 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pampzrd&repo=CyberProjects&show_icons=true&theme=date_night)](https://github.com/pampzrd/CyberProjects)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pampzrd&repo=GoThings&show_icons=true&theme=date_night)](https://github.com/pampzrd/GoThings)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pampzrd&repo=CSharpAulasAndamento&show_icons=true&theme=date_night)](https://github.com/pampzrd/CSharpAulasAndamento)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pampzrd&repo=Notas&show_icons=true&theme=date_night)](https://github.com/pampzrd/Notas)
 
 </div>
