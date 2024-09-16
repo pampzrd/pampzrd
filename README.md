@@ -3,7 +3,7 @@
 #  CYBERSECURITY 🎭👩‍💻
  <hr>
   Student of cybersecurity 👀🔒 </br>
-BLUE TEAM 💙⚔️ 
+
 </br>============\\============</br>
  <img align="center" src="coisito.gif" alt="uma cerejinha pulante chamada coisito.Eu que fiz." height="100em">
 </br>
