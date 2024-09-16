@@ -1,6 +1,6 @@
 <div align="center">
  
-#  DEV BACKEND - CYBERSECURITY 🎭👩‍💻
+#  CYBERSECURITY 🎭👩‍💻
  <hr>
   Student of cybersecurity 👀🔒 </br>
 BLUE TEAM 💙⚔️ 
