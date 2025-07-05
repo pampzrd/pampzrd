@@ -4,7 +4,6 @@
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pampzrd&show_icons=true&theme=buefy"/> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampzrd&layout=donut&theme=buefy">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pampzrd&repo=HTML-CSS_Babies&show_icons=true&theme=buefy)]([https://github.com/pampzrd/CyberProjects](https://github.com/pampzrd/HTML-CSS_Babies))
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pampzrd&repo=Web&show_icons=true&theme=buefy)]([https://github.com/pampzrd/Web](https://github.com/pampzrd/Web))-->
 </br>============\\============</br>
  Christian ✝️❤️🙏</br>
